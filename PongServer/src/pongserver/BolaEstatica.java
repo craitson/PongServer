@@ -5,7 +5,6 @@
  */
 package pongserver;
 
-import PongOO.*;
 import java.awt.Color;
 
 /**

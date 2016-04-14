@@ -22,7 +22,6 @@ package pongserver;
  *
  *****************************************************************************
  */
-import PongOO.*;
 import java.applet.AudioClip;
 import java.applet.Applet;
 

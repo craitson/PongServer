@@ -23,7 +23,6 @@ package pongserver;
  *
  ******************************************************************************/
 
-import PongOO.*;
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.FileDialog;

@@ -1,6 +1,5 @@
 package pongserver;
 
-import PongOO.*;
 import java.applet.AudioClip;
 import java.awt.Color;
 import java.awt.event.KeyEvent;
